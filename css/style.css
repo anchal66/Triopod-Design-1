@@ -1,0 +1,27 @@
+.back{
+    background-image: url("../img/background.jpg");
+}
+.bg-white{
+    background-color: #ECF0F1
+}
+.navbar-brand {
+    margin: 0px;
+    padding: 0px;
+}
+a:link, a:visited {
+    color:unset;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    text-decoration: none;
+}
+.navbar .dropdown-menu{
+    width: 100%; 
+}
+#mn .dropdown{
+    position: static;
+}
+.navbar .nav-link{
+    font-size: 18px;
+}
